@@ -20,3 +20,4 @@ An educational browser game for kids to learn color recognition.
 ## Run
 Open index.html in any browser.
 00
+p9y
